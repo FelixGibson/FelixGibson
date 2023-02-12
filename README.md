@@ -2,7 +2,7 @@
 
 Welcome to my GitHub Profile!
 
-Hi, I'm Felix Luo, a software engineer from China. I'm currently focusing on web3 and blockchain, also a full stack engineer.
+Hi, I'm Felix Luo, a software engineer. I'm currently focusing on web3 and blockchain, also a full stack engineer.
 
 This is [my blog](https://felixgibson.github.io/). I'll post an article every week. And the content is about weekly reading and some thoughts. 
 
