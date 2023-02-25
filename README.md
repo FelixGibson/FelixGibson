@@ -11,3 +11,4 @@ This is [my blog](https://felixgibson.github.io/). I'll post an article every we
 
 📫 How to reach me:
 - Email:  jjtom5f@gmail.com.
+- Twitter: [felix_luo1234](https://twitter.com/felix_luo1234)
