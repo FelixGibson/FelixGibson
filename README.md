@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-Welcome to my GitHub Profile!
+Welcome to my GitHub profile!
 
-Hi, I'm Felix Luo, a software engineer. I'm currently focusing on web3 and blockchain, also a full stack engineer.
+I am Felix Luo, a proficient software engineer, and my current area of focus lies in the realms of web3 and blockchain, where I am diligently serving as a full stack engineer.
 
-This is [my blog](https://felixgibson.github.io/). I'll post an article every week. And the content is about weekly reading and some thoughts. 
+Please feel free to visit my blog, located at [felixgibson.github.io](https://felixgibson.github.io/), where I publish a weekly article centered around my thoughts on various topics, as well as my weekly reading list.
 
 🌱 My recent contributions to opensource projects:
 - [starknet-accounts](https://github.com/starknet-edu/starknet-accounts/pull/8) deploy contract to StarkNet with the Universal Deployer Contract 
