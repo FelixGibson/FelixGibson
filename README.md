@@ -1,3 +1,4 @@
+-  #[[resume]] ;;
 ### Hi there 👋
 
 Welcome to my GitHub profile!
@@ -12,4 +13,4 @@ My blog is at  [felixgibson.github.io](https://felixgibson.github.io/), where I 
 
 📫 How to reach me:
 - Email:  jjtom5f@gmail.com.
-- Twitter: [felix_luo1234](https://twitter.com/felix_luo1234)
+- Twitter: [felixluo_](https://x.com/felixluo_/with_replies)
