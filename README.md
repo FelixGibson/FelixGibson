@@ -1,4 +1,4 @@
--  #[[resume]] ;;
+-  #[[resume]] ;; <!--SR:!2025-03-14,3,250-->
 ### Hi there 👋
 
 Welcome to my GitHub profile!
